@@ -46,6 +46,8 @@ Les valeurs saisies sont : 10 20 30
 
 ```
 
+ <img width="769" height="241" alt="image" src="https://github.com/user-attachments/assets/38d4272a-ba21-4bbb-b46d-2b8e38d526f2" />
+
 ## Exercice 2 : Gestion dynamique d’un objet
 
 **Objectifs :**  
@@ -70,6 +72,8 @@ Nom : Salma
 Age : 21
 
 ```
+
+<img width="918" height="229" alt="image" src="https://github.com/user-attachments/assets/3645a554-7a4b-46ab-8685-dfb639678a44" />
 
 ## Exercice 3 : Tableau dynamique d’objets
 
@@ -100,6 +104,7 @@ Titre : Le Petit Prince, Prix : 45.5 DH
 Titre : L'Alchimiste, Prix : 60 DH
 
 ```
+<img width="798" height="455" alt="image" src="https://github.com/user-attachments/assets/851b45ea-8198-4376-b4f1-34c5d0d97e12" />
 
 ## Exercice 4 : Gestion d’un carnet d’adresses (niveau avancé)
 
@@ -122,11 +127,11 @@ Dans le `main` :
 Combien de contacts voulez-vous ajouter ? 2
 Contact 1 :
 Nom : Salma
-Téléphone : 0600000000
+Téléphone : 0765432617
 Email : salma@email.com
 Contact 2 :
 Nom : Ahmed
-Téléphone : 0611111111
+Téléphone : 0657234859
 Email : ahmed@email.com
 
 Liste des contacts :
@@ -139,3 +144,4 @@ Liste des contacts après suppression :
 Nom : Ahmed, Téléphone : 0611111111, Email : ahmed@email.com
 
 ```
+<img width="873" height="709" alt="image" src="https://github.com/user-attachments/assets/b546b0d3-3b99-41d7-806c-3dfea35d53ea" />
